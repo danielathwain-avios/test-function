@@ -11,7 +11,7 @@
       <dmn:requiredKnowledge href="#_43CB892F-464D-4CCD-8D30-B669B7F2A6DE"/>
     </dmn:knowledgeRequirement>
     <dmn:literalExpression id="_FC40E668-683E-4FCA-9067-C8D146E727ED">
-      <dmn:text>return callFunction(InputText)</dmn:text>
+      <dmn:text>callFunction(InputText)</dmn:text>
     </dmn:literalExpression>
   </dmn:decision>
   <dmn:inputData id="_AE0713A1-05F7-4D2D-8CF2-66EDF9EF2FD4" name="InputText">
