@@ -45,6 +45,12 @@
       <version>1.4.11.1-redhat-00001</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.example</groupId>
+      <artifactId>rhdm-example-function</artifactId>
+      <version>1.1-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
